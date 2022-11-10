@@ -1,0 +1,26 @@
+{
+  "name": "webd2121-bootstrap-npm",
+  "version": "1.0.0",
+  "description": "bootstrap, npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takanbi/WEBD2121-BOOTSTRAP-NPM.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "npm"
+  ],
+  "author": "Tunji Akanbi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/takanbi/WEBD2121-BOOTSTRAP-NPM/issues"
+  },
+  "homepage": "https://github.com/takanbi/WEBD2121-BOOTSTRAP-NPM#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
+}
